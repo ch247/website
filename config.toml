@@ -119,11 +119,11 @@ staticDir = ["static", "../assets/others"]               # static directories
   [params.social]                                        # Social Info in home page
     GitHub = "christopher-holfeld"
     Linkedin = "chrisholfeld"
-    Twitter = "xxxx"
-    #Instagram = "xxxx"
+    Twitter = "ch247io"
+    #Instagram = "chrisgin47"
     #Email = "christopher.holfeld@gmail.com"
     Facebook = "xxxx"
-    Telegram = "xxxx"
+    Telegram = "ch247io"
     #Medium = "@christopher.holfeld"
     #Gitlab = "xxxx"
     #Youtubelegacy = "xxxx"
@@ -178,8 +178,7 @@ staticDir = ["static", "../assets/others"]               # static directories
   [params.share]                                         # Social Share Links in post page
     enable = true
     Linkedin = true
-    GitHub = true
-    Telegram = true
+ 
 
 
   [params.publisher]                                     # Publisher Info just for SEO
